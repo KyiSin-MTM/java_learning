@@ -1,0 +1,12 @@
+package net.javaguides.employeeManagement.web;
+
+import javax.servlet.http.HttpServlet;
+
+import net.javaguides.employeeManagement.dao.EmployeeDao;
+
+public class EmployeeServlet extends HttpServlet{
+    
+    private static final long serialVersionUID = 1 L;
+    private EmployeeDao employeeDao;
+
+}

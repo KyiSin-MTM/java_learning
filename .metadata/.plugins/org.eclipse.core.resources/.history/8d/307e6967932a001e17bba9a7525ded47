@@ -1,0 +1,5 @@
+package net.javaguides.employeeManagement.model;
+
+public class Employee {
+
+}
